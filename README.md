@@ -9,4 +9,4 @@ We classified players using their college statistics and physical features (as m
 
 The random forest model correctly classified 64.3% in terms of having either above or below average VORP. This is definitely better than random guessing but not a fool-proof method to evaluate college prospects entering the draft. 
 
-Read here: 
+Read here: https://beyondtheaverage.wordpress.com/2018/01/16/college-basketball-prospects-are-difficult-to-project/
